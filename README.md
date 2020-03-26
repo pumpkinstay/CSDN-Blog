@@ -1,5 +1,5 @@
 # CSDN-Blog
-This is my CSDN blog, recording my learning process [My blog](https://blog.csdn.net/weixin_43124455)  
+This is my CSDN blog [My blog](https://blog.csdn.net/weixin_43124455)  
 ___
 These are some blog posts:
 1.  Android development: Weather Forecast App  
